@@ -165,7 +165,7 @@ html {
     min-height: 100vh;
 }
 #one{
-    background-image: url("css/one.png");
+    background-image: url("./assets/one.png");
     background-size: cover;
     background-position: top center;
     padding: 0;
